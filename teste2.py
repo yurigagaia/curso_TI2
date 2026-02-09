@@ -4,5 +4,5 @@ def limpar():
 limpar()
 n1 = int(input("digite seu numero"))
 for i in range (0,11,1):
-    veze = n1 * i
-    print(f"{n1} * {i} = {veze}")
+    vezess = n1 * i
+    print(f"{n1} * {i} = {vezess}")
